@@ -35,7 +35,8 @@ Actualmente estoy trabajando en varios proyectos emocionantes, incluyendo:
 - Cursando: CESDE - tecnica laboral en asistende desarrollo de sofware
 - Bootcamp - Nodo EAFIT - Desarrollo web
 - Bootcamp - Parquesoft - Fullstack
-- Química farmacéutica ❤️❤️❤️
+- Química farmacéutica ❤️❤️❤️ - UdeA
+- Tecnóloga química ❤️❤️❤️ - UdeA
 
 ---
 
