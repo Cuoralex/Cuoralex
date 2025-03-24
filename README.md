@@ -16,8 +16,8 @@ Me encanta aprender nuevos idiomas y espero lograr ser **políglota** inglés-fr
 
 Actualmente estoy trabajando en varios proyectos emocionantes, incluyendo:
 
-- **Frontend**: Angular.
-- **Backend**: ¿?.
+- **Frontend**: Angular, React, JavaScript.
+- **Backend**: JAVA, ASP.NET, PYTHON.
 
 ---
 
@@ -31,9 +31,11 @@ Actualmente estoy trabajando en varios proyectos emocionantes, incluyendo:
 ---
 
 ## Estudios
-
+Cursando: programa virtual SENA - TÉCNICO EN PROCESAMIENTO DE PRUEBAS DE SOFTWARE
+Cursando: CESDE - tecnica laboral en asistende desarrollo de sofware
 Bootcamp - Nodo EAFIT - Desarrollo web
 Bootcamp - Parquesoft - Fullstack
+Química farmacéutica ❤️❤️❤️
 
 ---
 
